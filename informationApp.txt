@@ -1,0 +1,10 @@
+ lets start the application.
+first I install npm depencies 
+1 npm  init
+second I install express to run server.
+2 npm install express - save 
+and also i install ejs to render our template 
+3 npm install ejs -save 
+and also I install body-parser becouse we need to post request and we pass to data .
+4 npm install body-parser -save
+also i will use Nosql database MongoDB.
